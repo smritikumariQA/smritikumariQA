@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Smriti Kumari 👋
 
-<!--
-**smritikumariQA/smritikumariQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Lead QA Engineer | Automation Architect
 
-Here are some ideas to get you started:
+With 11+ years of experience in Quality Engineering, I specialize in building scalable automation frameworks and driving quality culture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+
+- Java
+- Selenium WebDriver
+- TestNG
+- Rest Assured
+- API Testing
+- CI/CD (GitLab, Jenkins)
+- Docker
+- Automation Framework Design
+
+---
+
+## 🏗 What I Focus On
+
+✔ Scalable Automation Frameworks  
+✔ Parallel Execution  
+✔ CI/CD Integration  
+✔ UI + API Automation  
+✔ Quality Strategy & Leadership  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
