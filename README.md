@@ -13,6 +13,7 @@ With 11+ years of experience in Quality Engineering, I specialize in building sc
 - TestNG
 - Rest Assured
 - API Testing
+- Appium
 - CI/CD (GitLab, Jenkins)
 - Docker
 - Automation Framework Design
@@ -24,12 +25,12 @@ With 11+ years of experience in Quality Engineering, I specialize in building sc
 ✔ Scalable Automation Frameworks  
 ✔ Parallel Execution  
 ✔ CI/CD Integration  
-✔ UI + API Automation  
+✔ UI + API + Mobile Automation  
 ✔ Quality Strategy & Leadership  
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/smritikumaripage/
 
